@@ -11,6 +11,9 @@ I build clean, efficient, and scalable digital products that help businesses sav
 ### 🌐 Web Development
 High-converting websites, landing pages, and responsive web apps — fast, modern, and built to perform.
 
+### 🤖 AI Integration
+AI chatbots and assistants, OpenAI/Claude API integration, and AI-powered automation workflows added to your website or product.
+
 ### ⚙️ Automation Scripts
 Custom automations that eliminate repetitive work — data scraping, report generation, file handling, and API integrations.
 
@@ -25,6 +28,7 @@ New features for existing products, dashboards, REST APIs, and functional app co
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
